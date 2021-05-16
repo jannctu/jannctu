@@ -10,8 +10,6 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannctu&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannctu&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contents 📺 
 
 <b>Still Learning...</b> 
