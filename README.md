@@ -28,8 +28,8 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         - [Software Engineer Salary](https://github.com/jannctu/SoftwareEngineerSalaryEstimation/blob/master/EDA.ipynb)
         - [Bitcoin Chart](https://github.com/jannctu/Kaggle-Submissions/tree/master/btc-price)
         - [Forbes Billionaires 2021](https://github.com/jannctu/Kaggle-Submissions/tree/master/forbes-billionaires-2021)
-        - [Speech Data Visualization](https://github.com/jannctu/Kaggle-Submissions/master/speech-recognition)
-        - [Student Performance on Exam](https://github.com/jannctu/Kaggle-Submissions/master/student-performance)
+        - [Speech Data Visualization](https://github.com/jannctu/Kaggle-Submissions/tree/master/speech-recognition)
+        - [Student Performance on Exam](https://github.com/jannctu/Kaggle-Submissions/tree/master/student-performance)
     * Regression 
         - [Curve Fitting](https://github.com/jankristantowibisono/Linear-Regression)
         - [Sofware Enginer Salary Estimation](https://github.com/jannctu/SoftwareEngineerSalaryEstimation)
@@ -37,9 +37,9 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         - [Sentiment Analysis on Twitter Data](https://github.com/jannctu/Twitter-Sentiment-Analysis)
         - [Basic Classification / Titanic](https://github.com/jannctu/Kaggle-Submissions/tree/master/Titanic)
         - Basic Transfer Learning for Classification
-            * [VGGNet Transfer Learning using Keras](https://github.com/jannctu/Kaggle-Submissions/master/fish-classification)
-            * [ResNet18 Transfer Learning using Pytorch](https://github.com/jannctu/Kaggle-Submissions/master/fish-classification)
-        - [Basic Classification / Gender Classification](https://github.com/jannctu/Kaggle-Submissions/master/gender-classification)
+            * [VGGNet Transfer Learning using Keras](https://github.com/jannctu/Kaggle-Submissions/tree/master/fish-classification)
+            * [ResNet18 Transfer Learning using Pytorch](https://github.com/jannctu/Kaggle-Submissions/tree/master/fish-classification)
+        - [Basic Classification / Gender Classification](https://github.com/jannctu/Kaggle-Submissions/tree/master/gender-classification)
     * GAN 
         - [Introduction to GAN](https://github.com/jannctu/Kaggle-Submissions/tree/master/dog-gen)
     * Others
@@ -51,7 +51,7 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         
             Neural Network architecture inspired from VGG16, U-Net and SegNet for Edge Detection
         - [YOLO3 Inference](https://github.com/jannctu/Yolo3-Tiny)
-        - [CommonLit-Readability](https://github.com/jannctu/Kaggle-Submissions/master/CommonLit-Readability)
+        - [CommonLit-Readability](https://github.com/jannctu/Kaggle-Submissions/tree/master/CommonLit-Readability)
         
     
 - Computer Vision / Image Processing 
