@@ -23,28 +23,25 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         FINED: Fast Inference Network for Edge Detection Jan Kristanto Wibisono, Hsueh-Ming Hang, ICME 2021
     * [RCF Wrapper](https://github.com/jannctu/Rcf-Pytorch-Wrapper)
     
-        Implementation of "Richer Convolutional Features for Edge Detection"  Please refer to the original author for citation.
-
-    
 - Machine Learning / Data Science 
     * Data Visualization 
         - [Software Engineer Salary](https://github.com/jannctu/SoftwareEngineerSalaryEstimation/blob/master/EDA.ipynb)
         - [Bitcoin Chart](https://github.com/jannctu/Kaggle-Submissions/tree/master/btc-price)
         - [Forbes Billionaires 2021](https://github.com/jannctu/Kaggle-Submissions/tree/master/forbes-billionaires-2021)
-        - [Speech Data Visualization](https://raw.githubusercontent.com/jannctu/Kaggle-Submissions/master/speech-recognition/EDA.md)
-        - [Student Performance on Exam](https://raw.githubusercontent.com/jannctu/Kaggle-Submissions/master/student-performance/EDA.md)
+        - [Speech Data Visualization](https://github.com/jannctu/Kaggle-Submissions/master/speech-recognition)
+        - [Student Performance on Exam](https://github.com/jannctu/Kaggle-Submissions/master/student-performance)
     * Regression 
         - [Curve Fitting](https://github.com/jankristantowibisono/Linear-Regression)
         - [Sofware Enginer Salary Estimation](https://github.com/jannctu/SoftwareEngineerSalaryEstimation)
-            
-            Estimate Software Engineer Salary using Random Forest. Data based on Stackoverflow survey 2020.
     * Classification
         - [Sentiment Analysis on Twitter Data](https://github.com/jannctu/Twitter-Sentiment-Analysis)
         - [Basic Classification / Titanic](https://github.com/jannctu/Kaggle-Submissions/tree/master/Titanic)
         - Basic Transfer Learning for Classification
-            * [VGGNet Transfer Learning using Keras](https://raw.githubusercontent.com/jannctu/Kaggle-Submissions/master/fish-classification/VGGNet-Transfer-Learning.md)
-            * [ResNet18 Transfer Learning using Pytorch](https://raw.githubusercontent.com/jannctu/Kaggle-Submissions/master/fish-classification/ResNet18-Pytorch.md)
-        - [Basic Classification / Gender Classification](https://raw.githubusercontent.com/jannctu/Kaggle-Submissions/master/gender-classification/basic-classification.md)
+            * [VGGNet Transfer Learning using Keras](https://github.com/jannctu/Kaggle-Submissions/master/fish-classification)
+            * [ResNet18 Transfer Learning using Pytorch](https://github.com/jannctu/Kaggle-Submissions/master/fish-classification)
+        - [Basic Classification / Gender Classification](https://github.com/jannctu/Kaggle-Submissions/master/gender-classification)
+    * GAN 
+        - [Introduction to GAN](https://github.com/jannctu/Kaggle-Submissions/tree/master/dog-gen)
     * Others
       
         - [Apache Spark Demo](https://github.com/jannctu/apache-spark-demo) 
@@ -54,7 +51,7 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         
             Neural Network architecture inspired from VGG16, U-Net and SegNet for Edge Detection
         - [YOLO3 Inference](https://github.com/jannctu/Yolo3-Tiny)
-        - [CommonLit-Readability](https://raw.githubusercontent.com/jannctu/Kaggle-Submissions/master/CommonLit-Readability/prototype.md)
+        - [CommonLit-Readability](https://github.com/jannctu/Kaggle-Submissions/master/CommonLit-Readability)
         
     
 - Computer Vision / Image Processing 
@@ -67,8 +64,6 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         
         Build your own dataset and collect data from Instagram, 104, Google Image, Reddit, IMDB, or any site. 
     * [Basic Telegram Bot](https://github.com/jannctu/IDX-Fundamental-Telegram-Bot)
-    
-        Basic Telegram Bot, response Fundamental Stock data for IDX (Indonesia Stock Exchange)
 - Old Projects
     * [Object Relational Mapping for Code Igniter](https://github.com/vcrack/ciorta)
     * [Hand Written Formula Recognition](https://github.com/jankristantowibisono/HandWrittenFormulaCompetition)
