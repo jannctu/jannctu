@@ -13,17 +13,21 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
 ## Contents 📺 
 
 <b>Still Learning...</b> 
-
-- Paper Codes
-    * [TIN](https://github.com/jannctu/TIN)
-      
-        Traditional Method Inspired Deep Neural Network for Edge Detection Jan Kristanto Wibisono, Hsueh-Ming Hang ICIP 2020
-    * [FINED](https://github.com/jannctu/FINED)
-    
-        FINED: Fast Inference Network for Edge Detection Jan Kristanto Wibisono, Hsueh-Ming Hang, ICME 2021
-    * [RCF Wrapper](https://github.com/jannctu/Rcf-Pytorch-Wrapper)
-    
+ 
 - Machine Learning / Data Science 
+    * CNN 
+        - [Introduction to Pytorch](https://github.com/jannctu/Machine-Learning-with-Pytorch/tree/main/introduction-to-pytorch)
+        - [A gentle introduction to CNN](https://github.com/jannctu/Machine-Learning-with-Pytorch/tree/main/gentle-introduction-to-CNN)
+    * GAN 
+        - [Introduction to GAN](https://github.com/jannctu/Kaggle-Submissions/tree/master/dog-gen)
+    * Paper Codes
+        - [TIN](https://github.com/jannctu/TIN)
+      
+            Traditional Method Inspired Deep Neural Network for Edge Detection Jan Kristanto Wibisono, Hsueh-Ming Hang ICIP 2020
+        - [FINED](https://github.com/jannctu/FINED)
+    
+            FINED: Fast Inference Network for Edge Detection Jan Kristanto Wibisono, Hsueh-Ming Hang, ICME 2021
+        - [RCF Wrapper](https://github.com/jannctu/Rcf-Pytorch-Wrapper)
     * Data Visualization 
         - [Software Engineer Salary](https://github.com/jannctu/SoftwareEngineerSalaryEstimation/blob/master/EDA.ipynb)
         - [Bitcoin Chart](https://github.com/jannctu/Kaggle-Submissions/tree/master/btc-price)
@@ -40,8 +44,6 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
             * [VGGNet Transfer Learning using Keras](https://github.com/jannctu/Kaggle-Submissions/tree/master/fish-classification)
             * [ResNet18 Transfer Learning using Pytorch](https://github.com/jannctu/Kaggle-Submissions/tree/master/fish-classification)
         - [Basic Classification / Gender Classification](https://github.com/jannctu/Kaggle-Submissions/tree/master/gender-classification)
-    * GAN 
-        - [Introduction to GAN](https://github.com/jannctu/Kaggle-Submissions/tree/master/dog-gen)
     * Others
       
         - [Apache Spark Demo](https://github.com/jannctu/apache-spark-demo) 
