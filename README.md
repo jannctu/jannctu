@@ -15,6 +15,8 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
 <b>Still Learning...</b> 
  
 - Machine Learning / Data Science 
+    * Techniques
+        - [How to handle Imbalance Data problem](https://github.com/jannctu/Kaggle-Submissions/tree/master/Imbalance-Data-problem)
     * CNN 
         - [Introduction to Pytorch](https://github.com/jannctu/Machine-Learning-with-Pytorch/tree/main/introduction-to-pytorch)
         - [A gentle introduction to CNN](https://github.com/jannctu/Machine-Learning-with-Pytorch/tree/main/gentle-introduction-to-CNN)
