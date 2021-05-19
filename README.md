@@ -43,6 +43,7 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
         - [Sentiment Analysis on Twitter Data](https://github.com/jannctu/Twitter-Sentiment-Analysis)
         - [Basic Classification / Titanic](https://github.com/jannctu/Kaggle-Submissions/tree/master/Titanic)
         - Basic Transfer Learning for Classification
+            * [Face Mask Detection with Yolo5](https://github.com/jannctu/Kaggle-Submissions/tree/master/face-mask-detection-yolov5)
             * [VGGNet Transfer Learning using Keras](https://github.com/jannctu/Kaggle-Submissions/tree/master/fish-classification)
             * [ResNet18 Transfer Learning using Pytorch](https://github.com/jannctu/Kaggle-Submissions/tree/master/fish-classification)
         - [Basic Classification / Gender Classification](https://github.com/jannctu/Kaggle-Submissions/tree/master/gender-classification)
