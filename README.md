@@ -13,7 +13,9 @@ Sometimes, I also like to spend my time for learning about Economics and Psychol
 ## Contents 📺 
 
 <b>Still Learning...</b> 
- 
+- Algorithm and Data Structure 🆕
+    * [Leedcode Problems](https://github.com/jannctu/Leedcode-Problems)
+    
 - Machine Learning / Data Science 
     * Techniques
         - [How to handle Imbalance Data problem](https://github.com/jannctu/Kaggle-Submissions/tree/master/Imbalance-Data-problem)
