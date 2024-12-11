@@ -2,7 +2,7 @@
 
 ## I'm just ordinary person who love to learn about anything.
 
-I'm interested in Computer Science, especially Computer Vision, Machine Learning and Data Science. 
+I'm interested in Computer Science, especially Software Engineering, AI, Computer Vision, Machine Learning and Data Science. 
 Sometimes, I also like to spend my time for learning about Economics and Psychology. 😊
 ---
 
