@@ -3,12 +3,7 @@
 ## I'm just ordinary person who love to learn about anything.
 
 I'm interested in Computer Science, especially Software Engineering, AI, Computer Vision, Machine Learning and Data Science. 
-Sometimes, I also like to spend my time for learning about Economics and Psychology. 😊
----
-
-## My GitHub Stats 💻
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannctu&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+Sometimes, I also like to spend my time for learning about Trading and Financial. 😊
 ---
 [website]: https://github.com/jannctu/
 [instagram]: https://www.instagram.com/jankristanto_/
